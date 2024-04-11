@@ -1,0 +1,44 @@
+header{
+    margin-top: 0%;
+    margin-bottom: 20%;
+}
+h1{
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+body{
+    background-color: lightsteelblue;
+    margin: 0px;
+}
+h2{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#origen{  
+    margin-bottom: 10%;
+}
+.foto_centrada{
+    text-align: center;
+    margin-top: 0%;
+}
+.encabezado{
+    min-block-size: 50px;
+    align-content: center;
+    margin: 0px;
+    background-color: darkblue;
+}
+.foto-no-encabezada{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+h3{
+    margin-left: 30px;
+    font-weight: 1000;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
